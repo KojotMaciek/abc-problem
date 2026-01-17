@@ -35,17 +35,17 @@ Example
 
 >>> can_make_word("A")
 True
->>> can_make_word("BARK")
+can_make_word("BARK")
 True
->>> can_make_word("BOOK")
+can_make_word("BOOK")
 False
->>> can_make_word("TREAT")
+can_make_word("TREAT")
 True
->>> can_make_word("COMMON")
+can_make_word("COMMON")
 False
->>> can_make_word("SQUAD")
+can_make_word("SQUAD")
 True
->>> can_make_word("CONFUSE")
+can_make_word("CONFUSE")
 True
 
 [Source https://rosettacode.org/wiki/ABC_Problem]
