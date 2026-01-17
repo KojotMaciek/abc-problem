@@ -32,7 +32,7 @@ The rules are simple:
    3. Show the output on this page for the following 7 words in the following example
 
 Example
-
+```
 can_make_word("A")
 True
 can_make_word("BARK")
@@ -47,6 +47,7 @@ can_make_word("SQUAD")
 True
 can_make_word("CONFUSE")
 True
+```
 
 [Source https://rosettacode.org/wiki/ABC_Problem]
 
