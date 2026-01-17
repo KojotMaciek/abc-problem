@@ -33,7 +33,7 @@ The rules are simple:
 
 Example
 
->>> can_make_word("A")
+can_make_word("A")
 True
 can_make_word("BARK")
 True
